@@ -1,0 +1,959 @@
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+/**********************
+  Europe Animals
+  **********************/
+#europe{
+    position: relative;
+    width: 812px;
+    height: 738px;
+    margin: 0px auto;
+    background: url('../images/europe/europe.png');
+}
+ul #eur_whiteheadedduck{
+    position: absolute;
+    right:380px;
+    top: 125px;
+    cursor:pointer;
+}
+ul #eur_northpacificrightwhale{
+    position: absolute;
+    right: 280px;
+    top: 155px;
+    cursor:pointer;
+}
+ul #eur_europeanrabbit{
+    position: absolute;
+    right: 350px;
+    top: 155px;
+    cursor:pointer;
+}
+ul #eur_wildgoat{
+    position: absolute;
+    right: 380px;
+    top: 185px;
+    cursor:pointer;
+}
+ul #eur_chinesewaterdeer{
+    position: absolute;
+    right: 450px;
+    top: 215px;
+    cursor:pointer;
+}
+
+ul #eur_asiaticblackbear{
+    position: absolute;
+    right: 420px;
+    top: 225px;
+    cursor:pointer;
+}
+
+ul #eur_caspianseal{
+    position: absolute;
+    right: 578px;
+    top: 335px;
+    cursor:pointer;
+}
+ul #eur_commontortoise{
+    position: absolute;
+    right: 478px;
+    top: 385px;
+    cursor:pointer;
+}
+
+#eur_commontortoise_box{
+    position: absolute;
+    margin-left: -280px;
+    margin-top: -230px;
+}
+
+ul #eur_elhierrogiantlizard{
+    position: absolute;
+    right: 498px;
+    top: 335px;
+    cursor:pointer;
+}
+ul #eur_europeanbison{
+    position: absolute;
+    right: 468px;
+    top: 315px;
+    cursor:pointer;
+}
+
+ul #eur_europeangroundsquirrel{
+    position: absolute;
+    right: 328px;
+    top:415px;
+    cursor:pointer;
+}
+#europeangroundsquirrel_box{
+    position: absolute;
+    margin-left: -280px;
+    margin-top: -340px;
+}
+
+ul #eur_europeanmink{
+    position: absolute;
+    right: 288px;
+    top:445px;
+    cursor:pointer;
+}
+ul #eur_iberianlynx{
+    position: absolute;
+    right: 248px;
+    top:535px;
+    cursor:pointer;
+}
+
+ul #eur_iberianlynx_box {
+    position: absolute;
+    margin-left: -280px;
+    margin-top: -440px;
+}
+ul #eur_proteus{
+    position: absolute;
+    right: 188px;
+    top:565px;
+    cursor:pointer;
+}
+ul #eur_spanisheagle{
+    position: absolute;
+    right: 488px;
+    top:279px;
+    cursor:pointer;
+}
+ul #eur_spanisheagle_box {
+     position: absolute;
+    margin-left: -280px;
+    margin-top: -230px;
+}
+ /**********************
+  South America Animals
+  **********************/
+
+#southamericamap{
+    position: relative;
+    width: 1039px;
+    height: 750px;
+    margin: 0px auto;
+    background: url('../images/sa/south_america1.png');
+}
+
+ul #sa_ocelot{
+    position: absolute;
+    right: 420px;
+    top: 225px;
+    cursor:pointer;
+}
+
+
+ul #sa_chacoanpeccary{
+    position: absolute;
+    right: 510px;
+    top: 205px;
+    cursor:pointer;
+}
+
+    
+ul #sa_galapagoslandiguana{
+    position: absolute;
+    right: 565px;
+    top: 105px;
+    cursor:pointer;
+}
+
+    
+ul #sa_galapagospenguin {
+    position: absolute;
+    right: 580px;
+    top: 635px;
+    cursor:pointer;
+}
+
+
+    
+ul #sa_giantotter {
+    position: absolute;
+    right: 510px;
+    top: 125px;
+    cursor:pointer;
+}
+
+
+ul #sa_goldenpoisonarrowfrog {
+    position: absolute;
+    right: 530px;
+    top: 285px;
+    cursor:pointer;
+}
+
+ul #sa_learsmacaw {
+    position: absolute;
+    right: 420px;
+    top: 395px;
+    cursor:pointer;
+}
+    
+ul #sa_shorttailedchinchilla{
+    position: absolute;
+    right: 520px;
+    top: 475px;
+    cursor:pointer;
+}
+
+ul #sa_southamericanmanatee{
+    position: absolute;
+    right: 540px;
+    top: 515px;
+    cursor:pointer;
+}
+ul #sa_wanderingalbatross{
+    position: absolute;
+    right: 560px;
+    top: 255px;
+    cursor:pointer;
+}
+
+#galapagospenguin_box {
+    position: absolute;
+    margin-left: -130px;
+    margin-top: -580px;
+}
+#southamericanmanatee_box {
+    position: absolute;
+    margin-left: -130px;
+    margin-top: -480px;
+}
+#shorttailedchinchilla_box {
+    position: absolute;
+    margin-left: -180px;
+    margin-top: -480px;
+}
+
+#ocelot_box {
+    position: absolute;
+    margin-left: -280px;
+    margin-top: -230px;
+}
+
+#goldenpoisonarrowfrog_box{
+    position: absolute;
+    margin-left: -280px;
+    margin-top: -230px;
+}
+#learsmacaw_box{
+     position: absolute;
+    margin-left: -280px;
+    margin-top: -230px;
+}
+ /**********************
+      Asia Animals
+  **********************/
+
+
+#asiamap{
+    position: relative;
+    width: 900px;
+    height: 631px;
+    margin: 0px auto;
+    background: url('../images/asia/asia.png');
+}
+
+ul #asia_arabianoryx {
+    position: absolute;
+    right: 250px;
+    top: 225px;
+    cursor:pointer;
+}
+
+ul #asia_gharial {
+    position: absolute;
+    right: 350px;
+    top: 125px;
+    cursor:pointer;
+}
+
+ul #asia_giantpanda {
+    position: absolute;
+    right: 550px;
+    top: 95px;
+    cursor:pointer;
+}
+
+ul #asia_marianaflyingfox {
+    position: absolute;
+    right: 650px;
+    top: 195px;
+    cursor:pointer;
+}
+
+ul #asia_redcrownedcrane {
+    position: absolute;
+    right: 690px;
+    top: 125px;
+    cursor:pointer;
+}
+
+ul #asia_siberianmuskdeer {
+    position: absolute;
+    right: 750px;
+    top: 185px;
+    cursor:pointer;
+}
+
+ul #asia_sumatran {
+    position: absolute;
+    right: 320px;
+    top: 165px;
+    cursor:pointer;
+}
+
+ul #asia_wildbactriancamel {
+    position: absolute;
+    right: 420px;
+    top: 175px;
+    cursor:pointer;
+}
+
+ul #asia_dhole {
+    position: absolute;
+    right: 450px;
+    top: 235px;
+    cursor:pointer;
+}
+
+ul #asia_greatbustard{
+    position: absolute;
+    right: 540px;
+    top: 275px;
+    cursor:pointer;
+}
+
+#siberianmuskdeer_box {
+    position: absolute;
+    margin-left: -100px;
+    margin-top: -180px;
+}
+#arabianoryx_box {
+    position: absolute;
+    margin-left: -290px;
+    margin-top: -180px;
+}
+#redcrownedcrane_box {
+    position: absolute;
+    margin-left: -130px;
+    margin-top: -120px;
+}
+
+ul #asia_blackistonsfishowl{
+    position: absolute;
+    right: 440px;
+    top: 295px;
+    cursor:pointer;
+}
+ul #asia_komododragon{
+    position: absolute;
+    right: 400px;
+    top: 325px;
+    cursor:pointer;
+}
+
+ul #asia_orientalstork{
+    position: absolute;
+    right: 582px;
+    top: 305px;
+    cursor:pointer;
+}
+
+ul #asia_russiandesman{
+    position: absolute;
+    right: 620px;
+    top: 295px;
+    cursor:pointer;
+}
+ul #asia_russiandesman_box{
+      position: absolute;
+    margin-left: -110px;
+    margin-top: -130px;
+	}
+ul #asia_swangoose{
+    position: absolute;
+    right: 650px;
+    top: 325px;
+    cursor:pointer;
+}
+ /**********************
+     Africa Animals
+  **********************/
+
+#africa{
+    position: relative;
+    width: 714px;
+    height: 750px;
+    margin: 0px auto;
+    background: url('../images/africa/africamap.png');
+}
+ul #africa_shoebill{
+    position: absolute;
+    right: 330px;
+    top: 205px;
+    cursor:pointer;
+}
+
+ul #africa_hairyeareddwarflemur{
+    position: absolute;
+    right: 370px;
+    top: 245px;
+    cursor:pointer;
+}
+ul #africa_hairyeareddwarflemur_box {
+    position: absolute;
+    margin-left: -110px;
+    margin-top: -230px;
+}
+ul #africa_glasssshrew{
+    position: absolute;
+    right: 410px;
+    top: 225px;
+    cursor:pointer;
+}
+
+
+ul #africa_broadstripedmongoose{
+    position: absolute;
+    right: 510px;
+    top: 275px;
+    cursor:pointer;
+}
+
+
+ul #africa_africanwildass{
+    position: absolute;
+    right: 540px;
+    top: 275px;
+    cursor:pointer;
+}
+
+ul #africa_africanwilddog {
+    position: absolute;
+    right: 440px;
+    top: 295px;
+    cursor:pointer;
+}
+
+ul #africa_blackrhinoceros {
+    position: absolute;
+    right: 340px;
+    top: 345px;
+    cursor:pointer;
+}
+
+ul #africa_cheetah {
+    position: absolute;
+    right: 240px;
+    top: 285px;
+    cursor:pointer;
+}
+ul #africa_curviersgazelle {
+    position: absolute;
+    right: 200px;
+    top: 315px;
+    cursor:pointer;
+}
+ul #africa_fossa {
+    position: absolute;
+    right: 160px;
+    top: 395px;
+    cursor:pointer;
+}
+
+ul #africa_grevyszebra {
+    position: absolute;
+    right: 190px;
+    top: 195px;
+    cursor:pointer;
+}
+
+ul #africa_hippopotomus {
+    position: absolute;
+    right: 450px;
+    top: 175px;
+    cursor:pointer;
+}
+
+ul #africa_mountaingorilla {
+    position: absolute;
+    right: 550px;
+    top: 135px;
+    cursor:pointer;
+}
+
+ul #africa_ruffedlemur {
+    position: absolute;
+    right: 570px;
+    top: 205px;
+    cursor:pointer;
+}
+
+#mountaingorilla_box {
+    position: absolute;
+    margin-left: -110px;
+    margin-top: -120px;
+}
+
+#ruffedlemur_box {
+    position: absolute;
+    margin-left: -90px;
+    margin-top: -120px;
+}
+#africanwildass_box {
+    position: absolute;
+    margin-left: -90px;
+    margin-top: -120px;
+}
+#blackrhinoceros_box {
+    position: absolute;
+    margin-left: -190px;
+    margin-top: -160px;
+}
+#curviersgazelle_box {
+    position: absolute;
+    margin-left: -190px;
+    margin-top: -220px;
+}
+#fossa_box {
+    position: absolute;
+    margin-left: -190px;
+    margin-top: -180px;
+}
+#cheetah_box {
+    position: absolute;
+    margin-left: -190px;
+    margin-top: -180px;
+}
+ /**********************
+     North America Animals
+  **********************/
+
+#northamerica{
+    position: relative;
+    width: 832px;
+    height: 746px;
+    margin: 0px auto;
+    background: url('../images/na/north_america.png');
+}
+
+ul #na_axlotol {
+    position: absolute;
+    right: 550px;
+    top: 135px;
+    cursor:pointer;
+}
+
+ul #na_beluga {
+    position: absolute;
+    right: 260px;
+    top: 435px;
+    cursor:pointer;
+}
+
+ul #na_giantkangaroorat {
+    position: absolute;
+    right: 360px;
+    top: 425px;
+    cursor:pointer;
+}
+ul #na_giantseabass {
+    position: absolute;
+    right: 560px;
+    top: 425px;
+    cursor:pointer;
+}
+ul #na_hammerheadshark {
+    position: absolute;
+    right: 530px;
+    top: 455px;
+    cursor:pointer;
+}
+
+ul #na_hawaiiangoose{
+    position: absolute;
+    right: 530px;
+    top: 355px;
+    cursor:pointer;
+}
+ul #na_mountaintapir{
+    position: absolute;
+    right: 330px;
+    top: 355px;
+    cursor:pointer;
+}
+ul #na_pygmyracoon{
+    position: absolute;
+    right: 385px;
+    top: 285px;
+    cursor:pointer;
+}
+
+ul #na_volcanorabbit{
+    position: absolute;
+    right: 439px;
+    top: 285px;
+    cursor:pointer;
+}
+
+ul #na_oahutreesnail{
+    position: absolute;
+    right: 469px;
+    top: 295px;
+    cursor:pointer;
+}
+
+#hammer_box {
+    position: absolute;
+    margin-left: -90px;
+    margin-top: -220px;
+}
+#seabass_box {
+    position: absolute;
+    margin-left: -90px;
+    margin-top: -220px;
+}
+#mountaintapir_box {
+    position: absolute;
+    margin-left: -220px;
+    margin-top: -220px;
+}
+#beluga_box {
+    position: absolute;
+    margin-left: -250px;
+    margin-top: -220px;
+}
+#giantkangaroorat_box {
+    position: absolute;
+    margin-left: -250px;
+    margin-top: -270px;
+}
+#hawaiiangoose_box {
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -320px;
+}
+
+#pygmyracoon_box{
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -320px;
+}
+
+#na_woodbison {
+	position: absolute;
+    right: 499px;
+    top: 345px;
+    cursor:pointer;
+	}
+#na_woodbison_box{
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -320px;
+}
+
+#na_californiacondor {
+	position: absolute;
+    right: 529px;
+    top: 305px;
+    cursor:pointer;
+	}
+#na_franklinsbumblebee {
+	position: absolute;
+    right:329px;
+    top: 275px;
+    cursor:pointer;
+	}
+#na_redcockadedwoodpecker {
+	position: absolute;
+    right:559px;
+    top: 295px;
+    cursor:pointer;
+	}
+#na_redwolf {
+	position: absolute;
+    right:269px;
+    top: 295px;
+    cursor:pointer;
+	}
+
+ /**********************
+     Oceana Animals
+  **********************/
+
+#oceania{
+    position: relative;
+    width: 811px;
+    height: 750px;
+    margin: 0px auto;
+    background: url('../images/oceania/oceaniamap.png');
+}
+ul #africa_africanelephant {
+    position: absolute;
+    right: 405px;
+    top: 335px;
+    cursor:pointer;
+}
+
+ul #australia_takahe {
+    position: absolute;
+    right: 455px;
+    top: 345px;
+    cursor:pointer;
+}
+
+ul #australia_quokka {
+    position: absolute;
+    right: 405px;
+    top: 325px;
+    cursor:pointer;
+}
+
+#australia_quokka_box {
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -220px;
+}
+ul #australia_narwhal {
+    position: absolute;
+    right: 205px;
+    top: 125px;
+    cursor:pointer;
+}
+#australia_narwhal_box{
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -130px;
+}
+
+ul #australia_leafscaledseasnake {
+    position: absolute;
+    right: 425px;
+    top: 165px;
+    cursor:pointer;
+}
+ul #australia_indopacifichumpbackdolphin {
+    position: absolute;
+    right: 525px;
+    top: 125px;
+    cursor:pointer;
+}
+ul #australia_bandedanteater {
+    position: absolute;
+    right: 550px;
+    top: 135px;
+    cursor:pointer;
+}
+
+ul #australia_bluebirdofparadise {
+    position: absolute;
+    right: 350px;
+    top: 175px;
+    cursor:pointer;
+}
+
+ul #australia_dugong {
+    position: absolute;
+    right: 580px;
+    top: 155px;
+    cursor:pointer;
+}
+
+ul #australia_goodfellowstreekangaroo {
+    position: absolute;
+    right: 380px;
+    top: 195px;
+    cursor:pointer;
+}
+ul #australia_kowari {
+    position: absolute;
+    right: 380px;
+    top: 395px;
+    cursor:pointer;
+}
+
+ul #australia_greatspottedkiwi {
+    position: absolute;
+    right: 280px;
+    top: 395px;
+    cursor:pointer;
+}
+
+ul #australia_longbeakedechidna {
+    position: absolute;
+    right: 260px;
+    top: 455px;
+    cursor:pointer;
+}
+
+ul #australia_newzealandsealion {
+    position: absolute;
+    right: 340px;
+    top: 485px;
+    cursor:pointer;
+}
+ul #australia_tasmaniandevil {
+    position: absolute;
+    right: 240px;
+    top: 485px;
+    cursor:pointer;
+}
+
+ul #australia_victoriacrownedpigeon {
+    position: absolute;
+    right: 140px;
+    top: 585px;
+    cursor:pointer;
+}
+
+#kowari_box {
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -270px;
+}
+#newzealandsealion_box {
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -300px;
+}
+#greatspottedkiwi_box {
+    position: absolute;
+    margin-left: -230px;
+    margin-top: -300px;
+}
+#australia_longbeakedechidna_box {
+    position: absolute;
+    margin-left: -250px;
+    margin-top: -300px;
+}
+#tasmaniandevil_box {
+    position: absolute;
+    margin-left: -280px;
+    margin-top: -350px;
+}
+
+#victoriacrownedpigeon_box {
+    position: absolute;
+    margin-left: -350px;
+    margin-top: -470px;
+}
+/**Description Box**/
+#sa_box {
+    position: absolute;
+    margin-left: -190px;
+    margin-top: -80px;
+    }
+
+ul li ul  {
+    position: absolute;
+    z-index: 9;
+    visibility:hidden;
+    opacity: 0;
+    transition: all .3s;
+}
+
+
+ul li ul li{
+    background: #B1CF89;
+    border-radius: 0px;
+    color: #FFF;
+    box-shadow: 5px 5px 0px rgba(00,00,00,.4);
+    width: 500px;
+    cursor:auto;
+}
+ul li ul li h3{
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#contentbox {
+    margin: 10px;
+    color: #000;
+}
+
+#animalboximage {
+    text-align: center;
+}
+#animalboximage img {
+    height: auto;
+    max-width: 100%;
+}
+
+#animaltitle {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 35px;
+    letter-spacing: 10px;
+    font-family: 'OstrichSansRoundedMedium';
+    }
+
+#sub {
+    text-align: center;
+    font-style: italic;
+}
+#close  {
+    float: right;
+    line-height: 0px;
+    margin-top: 18px;
+    margin-right: 8px;
+    margin-bottom: 0;
+    font-size: 20px;
+    color: #333;
+    cursor: pointer;
+    }
+
+/**
+ * Roberts code
+ */
+ 
+#globalWrapper{
+    overflow: hidden;
+    height: 739px;
+    width: 900px;
+    position: relative;
+    margin: 0px auto;
+}
+#globalWrapper #southamericamap,
+#globalWrapper #asiamap, #northamerica, #africa, #europe, #oceania{
+    position: absolute;
+    top: 0px;
+    left: -1000px;
+    display: block;
+    transition: all .3s;
+    }
+
+#globalWrapper div.current {
+    top: 0px !important;
+    left: 0px !important;
+}
+
+#pageinator div {
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    background: #333;
+    display: inline-block;
+
+}
+
+#pageinator{
+    display: block;
+    margin: 0px auto;
+    width: 100px;
+	text-align: center;
+}
+
+
